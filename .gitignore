@@ -1,3 +1,4 @@
 *.pkl
 *.conv
-
+.DS_Store
+model/
